@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+}
+
+#legend {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    height: 150px;
+    width: 150px;
+}
